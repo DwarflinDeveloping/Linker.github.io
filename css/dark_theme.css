@@ -1,0 +1,36 @@
+body.dark {
+    background-color: #000001;
+}
+
+p.dark {
+    color: #ffffff;
+}
+
+h1.dark {
+    color: #ffffff;
+}
+
+h2.dark {
+    color: #ffffff;
+}
+
+h3.dark {
+    color: #ffffff;
+}
+
+summary {
+    color: #ffffff;
+}
+
+div.content {
+    background: linear-gradient(#111111, #111122, #111222, #112222);
+    background-color: 111111;
+}
+
+div.dark-outline {
+    outline: 2px solid white;
+}
+
+.dark-outline > * {
+    padding:10px;
+}
